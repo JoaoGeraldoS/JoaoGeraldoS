@@ -1,16 +1,25 @@
-## Hi there 👋
+# João Geraldo 
 
-<!--
-**JoaoGeraldoS/JoaoGeraldoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou João Geraldo, atualmente cursando Técnico em Análise e Desenvolvimento de Sistemas (ADS) na Unidade Montes Claros, MG.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre em busca de aprender e aprimorar meus conhecimentos na área de desenvolvimento. Atualmente, estou focado em aprender as seguintes tecnologias:
+
+-   **Python**  
+-   **Flask**  
+-   **HTML** 
+-   **CSS**  
+-   **Go Lang**
+
+## Contato
+
+-   Email: [João Geraldo](joaogeraldo4santosxavier@gmail.com)
+-   LinkedIn: [João Geraldo | LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-geraldo-0ba931181/)
+
+    
+   
+
+## Projetos
+
+Aqui você encontrará alguns dos meus projetos em andamento e experimentações com as tecnologias mencionadas acima. Sinta-se à vontade para contribuir ou entrar em contato!
