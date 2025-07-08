@@ -11,7 +11,8 @@ Estou sempre em busca de aprender e aprimorar meus conhecimentos na área de des
     - **Spring Boot**
 
 * Conhecimento
-    -   **Python**  
+    -   **Python**
+    -   **FastAPI**
     -   **Flask**  
     -   **Go Lang**
 
