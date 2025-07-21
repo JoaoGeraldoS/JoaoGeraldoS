@@ -13,8 +13,6 @@ Estou sempre em busca de aprender e aprimorar meus conhecimentos na área de des
 * Conhecimento
     -   **Python**
     -   **FastAPI**
-    -   **Flask**  
-    -   **Go Lang**
 
 ## Contato
 
