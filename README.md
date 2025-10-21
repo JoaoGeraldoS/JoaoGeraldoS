@@ -7,12 +7,13 @@ Olá, sou João Geraldo, atualmente cursando Técnico em Análise e Desenvolvime
 Estou sempre em busca de aprender e aprimorar meus conhecimentos na área de desenvolvimento. Atualmente, estou focado em aprender as seguintes tecnologias:
 
 * Principal
-    - **Java**
-    - **Spring Boot**
+    - **GO**
+    - **Gin**
 
 * Conhecimento
     -   **Python**
     -   **FastAPI**
+      
 
 ## Contato
 
