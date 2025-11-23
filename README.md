@@ -67,9 +67,9 @@
 
 ## 📊 Minhas Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGeraldoS&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoGeraldoS&show_icons=true&theme=transparent&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=transparent" />
 </p>
 
 ---
