@@ -1,92 +1,75 @@
-<h1 align="center">👋 Olá! Eu sou o João Geraldo</h1>
+# João Geraldo
 
-<p align="center">
-  Desenvolvedor Backend • Focado em Go • Construindo APIs escaláveis e aplicações robustas.
-</p>
-
----
-
-## 🚀 Sobre mim
-- 🎯 Atualmente focado em desenvolvimento **Backend com Go**  
-- 🔥 Estudando arquitetura limpa, testes, SOLID e boas práticas  
-- 🧪 Construindo APIs reais, com testes e boas abstrações  
-- 📚 Buscando minha primeira oportunidade como Dev Backend  
-- 💡 Interesses: Go, Python, domínios complexos, design de software e sistemas de alta performance
+Desenvolvedor Backend especializado em **Go**.  
+Focado em escrever código simples, previsível e fácil de manter — com ênfase em arquitetura, modelagem de domínio e testes.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📌 Sobre mim
+- Trabalho e estudo com **Go**, APIs REST e arquiteturas limpas  
+- Interesse em design de software, serviços bem modelados e camadas explícitas  
+- Estudo de padrões, testes (table-driven), separação de responsabilidades e transações  
+- Sempre buscando clareza, legibilidade e decisões técnicas justificáveis  
+- Filosofia: *“Software simples é mais difícil de fazer, mas dura mais.”*
 
-**Linguagens & Backend**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+---
 
-**Frameworks**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-</div>
+## 🛠️ Stack Técnica
+
+**Linguagens**
+- Go  
+- Python  
+
+**Backend**
+- Gin  
+- FastAPI  
 
 **Banco de Dados**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
+- MySQL  
+- SQLite  
 
 **Ferramentas**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-### 🔹 **API de Livros – Go + Clean Architecture**
-**Um sistema completo com domínio, repositórios, testes e transações SQL.**
-- Go + Gin  
-- SQL + Transactions  
-- Padrões (Repository, Service, Domain)  
+- Docker  
+- Git  
 - Testes table-driven  
-👉 **Código:** [link do seu repositório]
+- SQL puro (foco em controle transacional)
 
 ---
 
-### 🔹 **App de Trade – Controle de Banca**
-**Aplicativo completo para registrar operações e métricas de performance.**
-- Backend Go  
-- Arquitetura organizada  
-- Features de diário de trade + banca  
-👉 **Código:** [link do repositório]
+## 📂 Projetos em Destaque
+
+### 📘 API de Livros (Go)
+Arquitetura com camadas explícitas (domain → service → repository), testes, erros estruturados e transações SQL.  
+Foco em código limpo, previsível e fácil de testar.  
+**Repositório:** _adicione o link_
 
 ---
 
-### 🔹 **APIs em Python (FastAPI)**
-**Endpoints rápidos e bem estruturados com validações e testes.**
-👉 **Código:** [link do repositório]
+### 📊 App de Trade – Controle de Banca
+Aplicação para registrar operações, métricas mensais e diário de trade.  
+Construção orientada a domínio e simplicidade operacional.  
+**Repositório:** _adicione o link_
 
 ---
 
-## 📊 Minhas Estatísticas
+### ⚙️ Micro APIs em Python
+Serviços enxutos com FastAPI, validação e organização minimalista.  
+**Repositório:** _adicione o link_
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGeraldoS&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=tokyonight" />
+---
+
+## 📈 Estatísticas
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoGeraldoS&show_icons=true&theme=transparent&hide_title=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-## 📫 Como falar comigo
-<div>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-</div>
-
-📧 **Email:** joao@exemplo.com  
-💬 Sempre aberto para conversar sobre dev, projetos e oportunidades.
+## 📫 Contato
+- **LinkedIn:** _adicione aqui_  
+- **Email:** _adicione aqui_
 
 ---
+
+> *Foco em aprender, modelar e entregar software simples, direto e funcional.*
