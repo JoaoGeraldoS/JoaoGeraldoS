@@ -17,7 +17,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Backend**
+**Linguagens**
 <div>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,7 +25,8 @@
 
 **Frameworks**
 <div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img src="https://img.shields.io/badge/Gin%20Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 </div>
 
@@ -40,6 +41,7 @@
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
 
 ---
 
