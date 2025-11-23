@@ -42,7 +42,6 @@
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
 ---
 
 ## 📌 Projetos em Destaque
@@ -53,22 +52,16 @@
 - SQL + Transactions  
 - Padrões (Repository, Service, Domain)  
 - Testes table-driven  
-👉 **Código:** [link do seu repositório]
+👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Biblioteca-API)
 
 ---
 
 ### 🔹 **App de Trade – Controle de Banca**
 **Aplicativo completo para registrar operações e métricas de performance.**
-- Backend Go  
+- Backend Python (FastAPI) 
 - Arquitetura organizada  
 - Features de diário de trade + banca  
-👉 **Código:** [[link do repositório](https://github.com/JoaoGeraldoS/Biblioteca-API)]
-
----
-
-### 🔹 **APIs em Python (FastAPI)**
-**Endpoints rápidos e bem estruturados com validações e testes.**
-👉 **Código:** [link do repositório]
+👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Agenda_trade)
 
 ---
 
@@ -83,12 +76,12 @@
 
 ## 📫 Como falar comigo
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/joaogeraldo-dev/" target="_blank">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
 
-📧 **Email:** joao@exemplo.com  
+📧 **Email:** joaogeraldo4santosxavier@gmail.com  
 💬 Sempre aberto para conversar sobre dev, projetos e oportunidades.
 
 ---
