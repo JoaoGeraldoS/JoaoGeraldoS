@@ -69,12 +69,8 @@
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoGeraldoS&show_icons=true&theme=transparent&hide_title=true&hide_border=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=transparent&hide_border=true&langs_count=6&exclude_repo=lab-aed-en,estrutura-de-dados,exercicios-c,python-algo,python-matrices,python-utils" />
-
-
+   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGeraldoS&layout=compact&theme=transparent&hide_border=true&cache_seconds=60" />
 </p>
-
-
 
 ---
 
