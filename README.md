@@ -51,7 +51,7 @@
 - SQL + Transactions  
 - Padrões (Repository, Service, Domain)  
 - Testes table-driven  
-👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Biblioteca-API)
+👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Projeto_API_Biblioteca)
 
 ---
 
