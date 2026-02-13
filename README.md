@@ -33,7 +33,7 @@ Veja abaixo os repositórios fixados que representam meu trabalho backend.
 
 ---
 
-### 🔹 **API de Livros – Go 
+### 🔹 **API de Livros – Go** 
 **Um sistema completo com domínio, repositórios, testes e transações SQL.**
 - Go + Gin  
 - SQL + Transactions  
