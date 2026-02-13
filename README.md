@@ -34,7 +34,7 @@ Veja abaixo os repositórios fixados que representam meu trabalho backend.
 ---
 
 ### 🔹 **API de Livros – Go** 
-**Um sistema completo com domínio, repositórios, testes e transações SQL.**
+**Um sistema completo com domínio, repositórios e testes.**
 - Go + Gin  
 - SQL + Transactions  
 - Padrões (Repository, Service, Domain)  
