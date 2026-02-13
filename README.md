@@ -27,8 +27,9 @@ Veja abaixo os repositórios fixados que representam meu trabalho backend.
 **Api para registrar progresso de estudos passivos em idiomas**
 - Backend C# ASP.NET Core
 - Arquitetura Monilitica
-- Registro de eventos 
-👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/pingword-backend)
+- Registro de eventos
+
+  👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/pingword-backend)
 
 ---
 
