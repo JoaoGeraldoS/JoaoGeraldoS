@@ -1,66 +1,44 @@
 <h1 align="center">👋 Olá! Eu sou o João Geraldo</h1>
 
 <p align="center">
-  Desenvolvedor Backend • Focado em Go • Construindo APIs escaláveis e aplicações robustas.
+  Backend Developer – C# (.NET) | Go
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎯 Atualmente focado em desenvolvimento **Backend com Go**  
-- 🔥 Estudando arquitetura limpa, testes, SOLID e boas práticas  
-- 🧪 Construindo APIs reais, com testes e boas abstrações  
-- 📚 Buscando minha primeira oportunidade como Dev Backend  
-- 💡 Interesses: Go, Python, design de software e sistemas de alta performance
+- Atualmente focado em desenvolvimento backend com C# (.NET) e Go.  
+- Estou construindo APIs escaláveis, com boas práticas, organização de código e testes automatizados.  
+- Buscando minha primeira oportunidade como Dev Backend  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-
-**Frameworks**
-<div>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-</div>
-
-**Banco de Dados**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
-
-**Ferramentas**
-<div>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+## 🛠️ Tecnologias Principais
+- **Linguagens:** C#, Go
+- **Frameworks:** .NET, ASP.NET Core, Gin, Docker, SQL
+- **Conceitos:** APIs REST, organização em camadas, testes automatizados
 
 ---
 
 ## 📌 Projetos em Destaque
+Veja abaixo os repositórios fixados que representam meu trabalho backend.
 
-### 🔹 **API de Livros – Go + Clean Architecture**
+### 🔹 **API de Progresso – Estudos de Usuário**
+**Api para registrar progresso de estudos passivos em idiomas**
+- Backend C# ASP.NET Core
+- Arquitetura Monilitica
+- Registro de eventos 
+👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/pingword-backend)
+
+---
+
+### 🔹 **API de Livros – Go 
 **Um sistema completo com domínio, repositórios, testes e transações SQL.**
 - Go + Gin  
 - SQL + Transactions  
 - Padrões (Repository, Service, Domain)  
 - Testes table-driven  
 👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Projeto_API_Biblioteca)
-
----
-
-### 🔹 **App de Trade – Controle de Banca**
-**Aplicativo completo para registrar operações e métricas de performance.**
-- Backend Python (FastAPI) 
-- Arquitetura organizada  
-- Features de diário de trade + banca  
-👉 **Código:** [link do repositório](https://github.com/JoaoGeraldoS/Agenda_trade)
 
 ---
 
